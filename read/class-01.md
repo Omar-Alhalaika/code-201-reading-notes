@@ -187,3 +187,25 @@ using size, color, and style.
 * You can use grouping and similarity to help simplify
 the information you present.
 
+# Html & Css 
+## A quick refresher
+
+* [html elements](https://lh3.googleusercontent.com/proxy/MTqEAJqBy8JGR_vWDVLNFoUtQVidhxQLqMOAoJj4mjDreCHL1vbQsmkxjpiAel-RzsYsZjWKiK-eioi8eJyx0rSPo5cd6G-QtIXN0216fIiVtvd6qNDSdedTzJRGcwtTMVScZxnGt41RVgSUxr1fY-aZyco)
+
+* [css rules](https://dhirajkumarsingh.files.wordpress.com/2012/05/css-structure-anatomy.png)
+
+
+# The ABC of programming 
+
+>  What is a script & how to creat one:
+
+* A script is a series of instructions that the computer can follow in order to achieve a goal.
+
+
+* Each time the script runs, it might only use a subset of all the instructions.
+
+
+* Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
+
+
+* To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help). 
