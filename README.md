@@ -16,7 +16,16 @@
    * [Read-04](./read/class-04)
 
 * HTML Images; CSS Color & Text
-   * [Read-05](./read/class-05)    
+   * [Read-05](./read/class-05)  
+
+*  JS Object Literals; The DOM
+   * [Read-06](./read/class-06)     
+
+*  JS Object Literals; The DOM
+   * [Read-07](./read/class-07)     
+
+*  JS Object Literals; The DOM
+   * [Read-08](./read/class-08)     
 
 ## `And to keep in touch with all the knowledge I am about to share you can find me on Github:`
 
