@@ -21,10 +21,10 @@
 *  JS Object Literals; The DOM
    * [Read-06](./read/class-06)     
 
-*  JS Object Literals; The DOM
+*  HTML Tables; JS Constructor Functions
    * [Read-07](./read/class-07)     
 
-*  JS Object Literals; The DOM
+*  Layout
    * [Read-08](./read/class-08)     
 
 ## `And to keep in touch with all the knowledge I am about to share you can find me on Github:`
