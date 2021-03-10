@@ -30,8 +30,8 @@
 *  HTML Tables; JS Constructor Functions
    * [Read-09](./read/class-09)
 
-<!-- *  Layout
-   * [Read-10](./read/class-10)         -->
+*  JS Debugging
+   * [Read-10](./read/class-10)        
 
 ## `And to keep in touch with all the knowledge I am about to share you can find me on Github:`
 
