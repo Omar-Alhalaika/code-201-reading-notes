@@ -35,7 +35,9 @@
 
 *  Assorted Topics
    * [Read-11](./read/class-11)
-         
+
+* Chart.js, Canvas
+   *  [Read-12](./read/class-12)       
 
 ## `And to keep in touch with all the knowledge I am about to share you can find me on Github:`
 
